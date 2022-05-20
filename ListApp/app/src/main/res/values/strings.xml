@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">List App</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="price">Price</string>
+    <string-array name="items">
+        <item>Guido</item>
+        <item>Bipika</item>
+        <item>Writing</item>
+    </string-array>
+    <string-array name="prices">
+        <item>£0.99</item>
+        <item>£1.49</item>
+        <item>£0.89</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>python creator</item>
+        <item>Software Developer</item>
+        <item>Just Scrape writes</item>
+    </string-array>
+</resources>
